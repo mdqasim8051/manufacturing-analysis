@@ -53,7 +53,7 @@ The dataset contains detailed manufacturing operational records including work o
 - Tableau dashboard for visual performance comparison
 
 ### 📸 Dashboard Preview
-![Manufecturing projects]([images/manufacturing_dashboard.png](https://github.com/mdqasim8051/manufacturing-analysis/blob/548e3b4af802f2ad9a6ae15afb009ac7f023c877/Manufecturing%20Dashboard.PNG))
+![Manufecturing projects]([manufacturing_dashboard.png](https://github.com/mdqasim8051/manufacturing-analysis/blob/548e3b4af802f2ad9a6ae15afb009ac7f023c877/Manufecturing%20Dashboard.PNG))
 
 ---
 
