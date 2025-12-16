@@ -73,15 +73,17 @@ The dataset contains detailed manufacturing operational records including work o
 
 ---
 
-## 🗂 Project Structure 
-manufacturing-analysis/ 
-│── README.md 
-│── dataset/ 
-│── excel-analysis/ 
-│── powerbi-files/ 
+## 🗂 Project Structure
+
+manufacturing-analysis/
+│── README.md
+│── dataset/
+│── excel-analysis/
+│── powerbi-files/
 │── tableau-files/
-│── mysql-queries/ 
-│── images/ ---
+│── mysql-queries/
+│── images/
+
 
 ## 👤 Author
 **Md Qasim**  
