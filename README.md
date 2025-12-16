@@ -74,7 +74,6 @@ The dataset contains detailed manufacturing operational records including work o
 ---
 
 ## 🗂 Project Structure
-
 manufacturing-analysis/
 │── README.md
 │── dataset/
