@@ -1,90 +1,118 @@
-# Manufacturing Process Analysis
+# 🏭 Manufacturing Process Analysis
 
 ## 📌 Project Overview
 This project analyzes manufacturing production data to evaluate operational efficiency, identify quality issues, monitor machine and employee performance, and reduce production wastage using Excel, Power BI, Tableau, and MySQL.
 
 ---
 
+## 🎯 Business Objective
+- Improve production efficiency  
+- Reduce rejection and wastage  
+- Identify underperforming machines and employees  
+- Optimize manufacturing processes  
+
+---
+
 ## 🛠 Tools & Technologies
-- Microsoft Excel
-- Power BI
-- Tableau
-- MySQL
+- Microsoft Excel  
+- Power BI  
+- Tableau  
+- MySQL  
 
 ---
 
 ## 📂 Dataset Description
-The dataset contains detailed manufacturing operational records including work orders, machines, employees, shifts, production quantities, rejected quantities, processed quantities, delivery timelines, and financial metrics.
+The dataset includes:
+- Work orders  
+- Machines and departments  
+- Employee details  
+- Production quantities  
+- Rejected and processed quantities  
+- Shift and timeline data  
 
 ---
 
 ## 🧹 Data Cleaning & Preparation
-- Removed duplicate records
-- Handled missing and inconsistent values
-- Standardized date and time formats
-- Validated numeric production and rejection fields
-- Created calculated fields and KPIs in Excel and SQL
+- Removed duplicate records  
+- Handled missing and inconsistent values  
+- Standardized date and time formats  
+- Validated production and rejection metrics  
+- Created calculated fields and KPIs  
 
 ---
 
 ## 🧩 Data Modeling
-- Designed structured tables for production, machines, employees, and work orders
-- Built relationships between fact and dimension tables
-- Used SQL queries to aggregate and validate production metrics
+- Designed fact and dimension tables  
+- Built relationships between production, machine, and employee data  
+- Used SQL queries for aggregation and validation  
 
 ---
 
 ## 📊 Key KPIs
-- Manufactured Quantity
-- Processed Quantity
-- Rejected Quantity
-- Wastage Quantity
-- Production Efficiency %
-- Machine-wise Rejected Quantity
-- Employee-wise Rejected Quantity
-- Department-wise Production Performance
-- Manufacture vs Rejected Trend
+- Manufactured Quantity  
+- Processed Quantity  
+- Rejected Quantity  
+- Wastage Quantity  
+- Production Efficiency (%)  
+- Machine-wise Rejection  
+- Employee-wise Rejection  
+- Department Performance  
 
 ---
 
 ## 📈 Dashboards
-- Excel dashboard for production and quality KPIs
-- Power BI dashboard with interactive filters
-- Tableau dashboard for visual performance comparison
+- Excel dashboard for KPI monitoring  
+- Power BI dashboard with interactive filters  
+- Tableau dashboard for performance comparison  
 
-### 📸 Dashboard Preview
-![Manufecturing projects](https://github.com/mdqasim8051/manufacturing-analysis/blob/6cc1d5f601421535bdc3e813ee2a27ffa2a944d7/Manufecturing%20Dashboard.PNG)
+---
+
+## 📸 Dashboard Preview
+![Manufacturing Dashboard](https://github.com/mdqasim8051/manufacturing-analysis/blob/6cc1d5f601421535bdc3e813ee2a27ffa2a944d7/Manufecturing%20Dashboard.PNG)
 
 ---
 
 ## 🔍 Key Insights
-- Certain machines contribute disproportionately to rejection rates
-- Employee-wise rejection levels vary significantly
-- Some departments show higher wastage
-- Production efficiency varies across shifts and plants
+- A few machines contribute to **high rejection rates**, indicating maintenance issues  
+- Certain employees consistently show **higher rejection levels**, highlighting training gaps  
+- Some departments have **higher wastage**, impacting overall efficiency  
+- Production efficiency varies significantly across **shifts and locations**  
 
 ---
 
-## 🎯 Recommendations
-- Perform preventive maintenance on high-rejection machines
-- Improve quality checks in critical departments
-- Train employees with high rejection trends
-- Monitor daily KPIs through dashboards
+## 💡 Business Recommendations
+- Perform preventive maintenance on high-rejection machines  
+- Provide targeted training for employees with higher rejection rates  
+- Strengthen quality control in high-wastage departments  
+- Monitor KPIs regularly using dashboards to improve decision-making  
 
 ---
 
 ## 🗂 Project Structure
+```
 manufacturing-analysis/
-│── README.md
-│── dataset/
-│── excel-analysis/
-│── powerbi-files/
-│── tableau-files/
-│── mysql-queries/
-│── images/
+│── README.md  
+│── dataset/  
+│── excel-analysis/  
+│── powerbi-files/  
+│── tableau-files/  
+│── mysql-queries/  
+│── images/  
+```
 
+---
+
+## ▶ How to Use
+- Open Excel files for analysis  
+- Use Power BI Desktop for dashboards  
+- Use Tableau Desktop for visualization  
+- Run SQL queries in MySQL  
+
+---
 
 ## 👤 Author
-**Md Qasim**  
+**Md Qasim Shah**  
 Data Analyst  
-GitHub: https://github.com/mdqasim8051
+
+🔗 GitHub: https://github.com/mdqasim8051  
+🔗 LinkedIn: https://www.linkedin.com/in/mdqasimshah  
